@@ -1,0 +1,18 @@
+
+
+ SMB Utility International ver.1.08
+
+
+
+This text can be read easily by checking [Edit]-[Wrap at right edge] of Notepad.
+§1 Overview
+SMB Utility is an application for Windows (R) to create original maps of Super Mario Bros. (TM). SMB Utility and its creator have nothing to do with Nintendo (R), the developer of Super Mario Bros. (TM).
+
+§2 File description
+ smbutil.exe: Executable file for SMB Utility.
+ smbutil.ini: Initialization file for SMB Utility.
+ readme.txt: The currently open file.
+§3 license
+SMB Utility (hereinafter referred to as this software) is freeware. The copyright of this software belongs to M.K.S (hereinafter the author). Reproduction / distribution of this software may be freely performed only for non-commercial purposes (due to the license of the Multi-6502 CPU emulator used internally), and the inclusion of game ROM files is strictly prohibited. To do. The author is not liable for any damages caused by using this software.
+§5 Other
+会 社 Company names and product names appearing in this text are trademarks or registered trademarks of the respective companies.
